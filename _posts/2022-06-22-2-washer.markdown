@@ -1,0 +1,17 @@
+---
+title: Washer
+subtitle: LG FH2J3QDNP0 Front Load Washer
+layout: default
+modal-id: 2
+date: 2022-06-22
+img: washingmachine.jpg
+thumbnail: washingmachine.jpg
+alt: image-alt
+project-date: June 2022
+period-of-use: 2.5 years
+price: <s>1,249 AED</s> -> <span style="color:#FF2400;">590 AED</span>
+online-store: Link
+link: https://uae.sharafdg.com/product/lg-front-load-washer-7-kg-fh2j3qdnp0/?cpn=17214677926&pl=&kw=&adg=&ch=x&gclid=CjwKCAjw-8qVBhANEiwAfjXLruj8roX4TsR4s4N_Amn6C-EaR4Om2YG5vuHpmV9cgcgIJdVWnY6cdRoC3cAQAvD_BwE
+description: LG FH2J3QDNP0 Front Load Washer
+
+---

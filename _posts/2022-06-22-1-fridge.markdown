@@ -1,0 +1,16 @@
+---
+title: Fridge
+subtitle: LG GNB402SQCB Top Mount Refrigerator
+layout: default
+modal-id: 1
+date: 2022-06-22
+img: fridge.jpg
+thumbnail: fridge.jpg
+alt: image-alt
+project-date: June 2022
+period-of-use: 2.5 years
+price: <s>1,248 AED</s> -> <span style="color:#FF2400;">590 AED</span>
+online-store: Link
+link: https://uae.sharafdg.com/product/lg-gnb402sqcb-top-mount-refrigerator-mktp/?cpn=17214677926&pl=&kw=&adg=&ch=x&gclid=CjwKCAjw-8qVBhANEiwAfjXLroAFcgRIPLU2luUJ9FqbXMiHQ2KP3PS-kg5HO3zvKUQwzZ4PKOPYkRoCQqIQAvD_BwE
+description: LG GNB402SQCB Top Mount Refrigerator
+---

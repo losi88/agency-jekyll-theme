@@ -1,0 +1,17 @@
+---
+title: Vacuum
+subtitle: LG VS8403C Handstick Vacuum Cleaner
+layout: default
+modal-id: 7
+date: 2022-06-22
+img: vacuum.jpg
+thumbnail: vacuum.jpg
+alt: image-alt
+project-date: April 2014
+period-of-use: 2.5 years
+price: <s>799 AED</s> -> <span style="color:#FF2400;">340 AED</span>
+online-store: Link
+link: https://uae.sharafdg.com/product/lg-handstick-vacuum-cleaner-vs8403c/?cpn=17214677926&pl=&kw=&adg=&ch=x&gclid=CjwKCAjw-8qVBhANEiwAfjXLrrlYUiFiApw_Wqa4CWAoXhPYo8mTTm5JH2BxzKXLePMR6T7g7zh4gxoCTl4QAvD_BwE
+description: LG VS8403C Handstick Vacuum Cleaner
+
+---

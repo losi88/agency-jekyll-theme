@@ -1,0 +1,17 @@
+---
+title: Microwave oven
+subtitle: LG MH6535GIS Microwave Oven
+layout: default
+modal-id: 5
+date: 2014-07-22
+img: microwave.jpg
+thumbnail: microwave.jpg
+alt: image-alt
+project-date: June 2022
+period-of-use: 2.5 years
+price: <s>650 AED</s> -> <span style="color:#FF2400;">290 AED</span>
+online-store: Link
+link: https://www.carrefouruae.com/mafuae/en/root-maf-category/nonfood-navigation-category/electronics-appliances/small-appliances/microwave-ovens-portable-hobs/microwave-grill/lg-25-liters-neochef-smart-inverter-microwave-with-grill-black-mh6535gis-1-year-warranty/p/8808992387466?utm_source=google&utm_medium=surfaces&utm_campaign=shopping_feed&utm_content=free_google_shopping_clicksSmallAppliances&gclid=CjwKCAjw-8qVBhANEiwAfjXLrq-IMIe0UTCR0OQPPjGJZVB95EBoN2IOv9l7q40ck16WhyxUL74JQxoC5B0QAvD_BwE
+description: LG MH6535GIS Microwave Oven
+
+---

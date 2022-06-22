@@ -1,0 +1,17 @@
+---
+title: Kettle
+subtitle: Black & Decker JC450B5 Kettle
+layout: default
+modal-id: 4
+date: 2022-06-22
+img: kettle.jpg
+thumbnail: kettle.jpg
+alt: image-alt
+project-date: June 2022
+period-of-use: 2.5 years
+price: <s>88 AED</s> -> <span style="color:#FF2400;">39 AED</span>
+online-store: Link
+link: https://www.amazon.ae/DECKER-Cordless-Stainless-JC450-B5-Warranty/dp/B07J1QF3MV/ref=asc_df_B07J1QF3MV/?tag=googleshopp09-21&linkCode=df0&hvadid=355866875170&hvpos=&hvnetw=g&hvrand=10969169433089366&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1000010&hvtargid=pla-770959791103&psc=1
+description: Black & Decker JC450B5 Kettle
+
+---

@@ -1,0 +1,17 @@
+---
+title: Gas Oven & Cooker
+subtitle: Beko FSGT61121DXL Cooker
+layout: default
+modal-id: 3
+date: 2014-07-15
+img: gasoven.jpg
+thumbnail: gasoven.jpg
+alt: image-alt
+project-date: June 2022
+period-of-use: 2.5 years
+price: <s>1,282 AED</s> -> <span style="color:#FF2400;">590 AED</span>
+online-store: Link
+link: https://uae.sharafdg.com/product/beko-cooker-fsgt61121dxl/?cpn=17214677926&pl=&kw=&adg=&ch=x&gclid=CjwKCAjw-8qVBhANEiwAfjXLrumwI4w4SutsiJbbifD3qqcmqaej-mDmSKaTBy9xgcIVorlSaJFlxhoC8R4QAvD_BwE
+description: Beko FSGT61121DXL Cooker
+
+---

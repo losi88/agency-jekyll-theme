@@ -1,0 +1,17 @@
+---
+title: TV
+subtitle: Sony KD43X8000G HDR Android TV 43inch
+layout: default
+modal-id: 6
+date: 2022-06-22
+img: tv.jpg
+thumbnail: tv.jpg
+alt: image-alt
+project-date: April 2014
+period-of-use: 2.5 years
+price: <s>1,699  AED</s> -> <span style="color:#FF2400;">790 AED</span>
+online-store: Link
+link: https://giftyonline.ae/product/sony-kd43x8000g-43-inch-4k-uhd-hdr-android-tv-black3GW8U
+description: Sony KD43X8000G HDR Android TV 43inch
+
+---
