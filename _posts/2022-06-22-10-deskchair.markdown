@@ -1,0 +1,15 @@
+---
+title: Desk Chair
+subtitle:
+layout: default
+modal-id: 10
+date: 2022-06-23
+img: deskchair.jpg
+thumbnail: deskchair.jpg
+alt: image-alt
+project-date: June 2022
+period-of-use: More than 2.5 years
+price: <span style="color:#FF2400;">39 AED</span>
+description:
+
+---
