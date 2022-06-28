@@ -1,0 +1,15 @@
+---
+title: Lamp & Drawer
+subtitle:
+layout: default
+modal-id: 11
+date: 2022-06-28
+img: lamp-light.jpg
+thumbnail: drawer.jpg
+alt: image-alt
+project-date: June 2022
+period-of-use: More than 2.5 years
+price: <span style="color:#FF2400;">Free</span>
+description:
+link: N/A
+---

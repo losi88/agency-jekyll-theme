@@ -1,0 +1,15 @@
+---
+title: Bed
+subtitle:
+layout: default
+modal-id: 13
+date: 2022-06-28
+img: bed-damage.jpg
+thumbnail: bed.jpg
+alt: image-alt
+project-date: June 2022
+period-of-use: More than 2.5 years
+price: <span style="color:#FF2400;">Free</span>
+description: Note - I'm not sure the size but I guess it is bouble or queen.
+link: N/A
+---
