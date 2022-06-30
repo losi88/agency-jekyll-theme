@@ -1,0 +1,15 @@
+---
+title: Mirror
+subtitle:
+layout: default
+modal-id: 17
+date: 2022-06-30
+img: mirror-size.jpg
+thumbnail: mirror.jpg
+alt: image-alt
+project-date: June 2022
+period-of-use: More than 2.5 years
+price: <span style="color:#FF2400;">Free</span>
+description:
+link: N/A
+---

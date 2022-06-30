@@ -1,0 +1,15 @@
+---
+title: Blinder
+subtitle:
+layout: default
+modal-id: 18
+date: 2022-06-30
+img: blinder-size.jpg
+thumbnail: blinder.jpg
+alt: image-alt
+project-date: June 2022
+period-of-use: More than 2.5 years
+price: <span style="color:#FF2400;">Free</span>
+description: 1 and 2 are same size. 3 is shorter than others.
+link: N/A
+---
